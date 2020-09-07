@@ -30,3 +30,5 @@ console.log(Result);
 | hanal   | ✔      |
 | hlewd   | ✔      | 
 | hgif    | ✔      |
+| porngif | ✔      |
+| anal    | ✔      |
