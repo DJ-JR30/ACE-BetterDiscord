@@ -43,11 +43,11 @@ const { PLACEHOLDER } = require('DevDex-galaxy');
 
 # Any under 18 and using
 
-If you are 18 and your mother or father see you developing with this and they want to contact me because of the npm package show them this section.
+If you are under 18 and your mother or father see you developing with this and they want to contact me because of the npm package show them this section.
 
 
 __**I know you might be mad at you kid for developing a program or bot using my npm I gave a warning near the Top so I can't lock the package, Sorry DevDex**__
 
 # Support
 
-Am on discord @DJ JR30#1315
+Am on discord @__**DJ JR30#1315**__
