@@ -13,10 +13,11 @@ const { PLACEHOLDER } = require('nsfw-npm');
 
 var Result = PLACEHOLDER();
 
-console.log();
+console.log(Result);
 ```
 
 "PLACEHOLDER" can be replace by the following graph:
+**Spelling needs to be the same as on the graph**
 |Function | Working |
 |---------|---------|
 | Boobs   | ✔      | 
