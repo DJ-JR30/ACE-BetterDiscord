@@ -2,18 +2,18 @@
 
 This npm package does have NSFW content continue at your own risk.
 
-# DevDex Huge Project
+# DevDex Galaxy Project
 
 This project will have stuff from searching for images to making random passwords, uuids, and email generator.
 
 # Installation
 
-`npm i`
+`npm i devdex-galaxy`
 
 # Usage
 
 ```
-   const { PLACEHOLDER } = require('DevDex-galaxy');
+   const { PLACEHOLDER } = require('devdex-galaxy');
    
    var Result = PLACEHOLDER();
    
@@ -21,6 +21,12 @@ This project will have stuff from searching for images to making random password
 ```
 
 "PLACEHOLDER" can be changed to the following:
+
+**SFW Functions**
+
+|  Name   | Added on Version | Function |
+|---------|------------------|----------|
+|URLVaild |     v1.0.0       |Look at Ex|
 
 **NSFW Functions**
 
@@ -32,13 +38,17 @@ This project will have stuff from searching for images to making random password
 # Command Templates
 
 ```
-const { PLACEHOLDER } = require('DevDex-galaxy');
+const { PLACEHOLDER } = require('devdex-galaxy');
 
-  if (command === 'cat') {
-	  const { file } = await PLACEHOLDER();
+  var suspect = "https://google.com";
 
-	message.channel.send(file);
-}
+    if (validUrl.isUri(suspect)){
+        console.log('Looks like an URI');
+        console.log('  ');
+    } else {
+        console.log('Not a URI');
+        console.log('  ');
+    }
 ```
 
 # Any under 18 and using
