@@ -1,34 +1,53 @@
-# NSFW npm
+# WARNING
 
-This is a npm package that can found you NSFW Images on some websites.
+This npm package does have NSFW content continue at your own risk.
+
+# DevDex Huge Project
+
+This project will have stuff from searching for images to making random passwords, uuids, and email generator.
 
 # Installation
 
-`npm i nsfw-npm`
+`npm i`
 
 # Usage
 
 ```
-const { PLACEHOLDER } = require('nsfw-npm');
-
-var Result = PLACEHOLDER();
-
-console.log(Result);
+   const { PLACEHOLDER } = require('DevDex-galaxy');
+   
+   var Result = PLACEHOLDER();
+   
+   console.log(PLACEHOLDER);
 ```
 
-"PLACEHOLDER" can be replace by the following graph:
+"PLACEHOLDER" can be changed to the following:
 
-**Spelling needs to be the same as on the graph**
+**NSFW Functions**
 
-|Function | Working |
-|---------|---------|
-| Boobs   | ✔      | 
-| Butt    | ✔      |
-| Pussy   | ✔      |
-| hfuck   | ✔      |
-| hcum    | ✔      |
-| hanal   | ✔      |
-| hlewd   | ✔      | 
-| hgif    | ✔      |
-| porngif | ✔      |
-| anal    | ✔      |
+|  Name   | Added on Version | Function |
+|---------|------------------|----------|
+|  Pussy  |     v1.0.0       | Pussy(); |
+
+
+# Command Templates
+
+```
+const { PLACEHOLDER } = require('DevDex-galaxy');
+
+  if (command === 'cat') {
+	  const { file } = await PLACEHOLDER();
+
+	message.channel.send(file);
+}
+```
+
+# Any under 18 and using
+
+If you are 18 and your mother or father see you developing with this and they want to contact me because of the npm package show them this section.
+
+
+__**I know you might be mad at you kid for developing a program or bot using my npm I gave a warning near the Top so I can't lock the package, Sorry DevDex**__
+
+# Support
+
+Am on discord @DJ JR30#1315
