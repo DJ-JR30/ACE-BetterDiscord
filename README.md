@@ -11,7 +11,7 @@ This project will have stuff from searching for images to making random password
 `npm i devdex-galaxy`
 
 # Usage
-
+Standard for generators:
 ```
    const { PLACEHOLDER } = require('devdex-galaxy');
    
@@ -22,33 +22,34 @@ This project will have stuff from searching for images to making random password
 
 "PLACEHOLDER" can be changed to the following:
 
+**Generators**
+
+|  Name    | Added on Version | Function |
+|----------|------------------|----------|
+|          |                  |          |
+
 **SFW Functions**
 
-|  Name   | Added on Version | Function |
-|---------|------------------|----------|
-|URLVaild |     v1.0.0       |Look at Ex|
+|  Name    | Added on Version | Function |
+|----------|------------------|----------|
+|EmailVaild|     v1.0.1       |Look at Ex|
+
 
 **NSFW Functions**
 
 |  Name   | Added on Version | Function |
 |---------|------------------|----------|
-|  Pussy  |     v1.0.0       | Pussy(); |
+| Heads / Tails | v1.0.2     |Look at Ex|
 
 
-# Command Templates
+# Command Templates / Examples
+
+Check if the email is vaild:
 
 ```
-const { PLACEHOLDER } = require('devdex-galaxy');
+   var validator = require("devdex-galaxy");
 
-  var suspect = "https://google.com";
-
-    if (validUrl.isUri(suspect)){
-        console.log('Looks like an URI');
-        console.log('  ');
-    } else {
-        console.log('Not a URI');
-        console.log('  ');
-    }
+   validator.validate("test@email.com"); // true
 ```
 
 # Any under 18 and using
@@ -58,6 +59,24 @@ If you are under 18 and your mother or father see you developing with this and t
 
 __**I know you might be mad at you kid for developing a program or bot using my npm I gave a warning near the Top so I can't lock the package, Sorry DevDex**__
 
+# NSFW Help
+
+`Heads / Tails` is a function that will give you a image, but the images are __**NSFW**__ here how to use it:
+```
+  const { HeadOrTailsNSFW } = require('devdex-galaxy');
+  
+  var Image = HeadOrTailsNSFW();
+  
+  message.channel.send(Image)
+```
+
 # Support
 
 Am on discord @__**DJ JR30#1315**__
+
+# Developers for this Template
+
+| Name     | Position |       Notes      |
+|----------|----------|------------------|
+| DJ JR30  |   CEO    | Owns DJ & DevDex |
+| DevDex   |   CEO    | Owns DJ & DevDex |
