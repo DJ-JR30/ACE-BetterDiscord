@@ -1,0 +1,57 @@
+//META{"name":"Website Genie","description":"Just for the Website Genie Crew. Auto Update with github codes.","author":"DevDex","version":"v1"}*//
+
+/*Phoenix Reborn*/
+@import url("https://monstrousdev.github.io/themes/phoenix-bundle/reborn.css");
+
+/*User Tags*/
+/*Badges*/
+/*Horizontal Server List*/
+/*Member Slider*/
+@import url("https://raw.githubusercontent.com/DJ-JR30/Website-Genie/gh-pages/BetterDiscord/Customized/Files/user-tags.css");
+@import url("https://raw.githubusercontent.com/DJ-JR30/Website-Genie/gh-pages/BetterDiscord/Customized/Files/badges.css");
+@import url('https://raw.githubusercontent.com/DJ-JR30/Website-Genie/gh-pages/BetterDiscord/Customized/Files/HorizontalServerList/base.css');
+@import url('https://raw.githubusercontent.com/DJ-JR30/Website-Genie/gh-pages/BetterDiscord/Customized/Files/MembersSlider.css');
+
+/*Main Theme*/
+:root {
+--roundness: 90px;
+--main-color: rgba(114,137,218);
+--hover-color: #1ea7f1;
+--home-color: #ffffff;
+--hover-size: 500px;
+--shadow: rgba(255,255,255,0.15);
+--background-image: url('https://raw.githubusercontent.com/DJ-JR30/Website-Genie/gh-pages/BetterDiscord/Customized/Images/MainBG.jpg');
+--background-blur: 0.1px;
+--popup-background: url('https://raw.githubusercontent.com/DJ-JR30/Website-Genie/gh-pages/BetterDiscord/Customized/Images/Popup.jpg');
+
+--HSL-server-icon-size: 30px;
+--HSL-server-spacing: 9px;
+}
+/*Hide Bandage Badge*/
+a[title="BandagedBD"], a[title="BandagedBD"]>svg{
+    visibility: hidden;
+    width: 0;
+    height: 0;
+}
+/*Start of Settings Tab*/
+/*Billing*/
+.item-PXvHYJ:nth-child(6) {
+    display: none;
+}
+/*Discord Nitro*/
+.item-PXvHYJ:nth-child(8) {
+    display: none;
+}
+/*Gift Inventory*/
+.item-PXvHYJ:nth-child(9) {
+    display: none;
+}
+/*Server Boost*/
+.item-PXvHYJ:nth-child(10) {
+    display: none;
+}
+/*HypeSquad*/
+.item-PXvHYJ:nth-child(11) {
+    display: none;
+}
+/*End of Settings Tab*/
