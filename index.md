@@ -4,7 +4,7 @@ Hello most likly your a admin or a coder for Website Genie.
 
 ## BetterDiscord
 
-###Themes
+### Themes
 
 DevDex will be putting some stuff here like normal Website Genie themes but it will be required.
 
