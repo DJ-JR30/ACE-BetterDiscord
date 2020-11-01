@@ -21,5 +21,5 @@
 |21| Flame|
 |22| Infinity|
 |26| Mending|
-|29| Curse Of Mending|
+|27| Curse Of Mending|
 |28| Curse Of Vanishing|
