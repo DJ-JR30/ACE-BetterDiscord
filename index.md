@@ -2,6 +2,8 @@
 
 Hello most likly your a admin or a coder for Website Genie.
 
+[MCPE](https://github.com/DJ-JR30/Website-Genie/blob/gh-pages/pages/index.md)
+
 ## BetterDiscord
 
 ### Themes
