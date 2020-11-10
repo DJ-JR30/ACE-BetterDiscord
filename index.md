@@ -1,14 +1,26 @@
-## Website Genie
+## Roman Empire [MC]
 
-Hello most likly your a admin or a coder for Website Genie.
+Hello most likly your a member, follower, or just looking.
 
-[MCPE](https://github.com/DJ-JR30/Website-Genie/blob/gh-pages/pages/index.md)
+### Welcome
+
+Hello you will find that most people here are a follower and will join and be united in any server/realm or world.
+
+## Hints
+
+**CPB** - Command People Below(Unless told other wise.)
+
+## Leaders
+
+|Name|Role|CPB|Discord Name|
+|----|----|---|------------|
+|DJ JR30|King|DevDex|
 
 ## BetterDiscord
 
 ### Themes
 
-DevDex will be putting some stuff here like normal Website Genie themes but it will be required.
+DevDex will be putting some stuff here like normal Roman Empire themes but it will **NOT** be required.
 
 ### Plugins
 
