@@ -4,3 +4,9 @@
 |--------|--------|
 |BetterDiscord|[Link](https://betterdiscord.net/home/)|
 |Spotify Theme|[Link](https://youtu.be/kIdyQbiFnms)|
+
+# Custom Theme for Members
+
+|User|Link|
+|----|----|
+|||
