@@ -1,5 +1,15 @@
 /*Start of Settings Tab*/
 
+/*WaterMark on Right*/
+.wordmark-2iDDfm::before{
+    content: 'Streaming!';
+    font-size: 16px;
+    Font-Weight: 600;
+    position:fixed;
+    right: 7%;
+    color: #7289DA;
+}
+
 /*Authorized Apps*/
 .item-PXvHYJ:nth-child(4) {
     display: none;
