@@ -1,0 +1,16 @@
+:root .tooltipblack-PPG47z{
+  /* Actual Tooltip */
+  background: #fff;
+  color: #000;
+ }
+ .tooltipPointer-3ZfirK{
+  /* Tooltip pointer */
+  border-top-color: green;
+ }
+ .tooltipContent-bqVLWK > .colorMuted-hdFt4q{
+  /* Tooltip "Muted" */
+  color: black;
+ }
+ .tooltipContent-bqVLWK > .row-20VM4t > svg > path{
+  fill: purple;
+ }
