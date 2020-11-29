@@ -1,3 +1,13 @@
+/* Icon & Message space*/
 .header-23xsNx{
   margin-top: 5px;
+}
+
+/*WaterMark on Right*/
+.wordmark-2iDDfm::before{
+    content: 'Streaming!';
+    font-size: 16px;
+    Font-Weight: 600;
+    position:fixed;
+    color: #7289DA;
 }
