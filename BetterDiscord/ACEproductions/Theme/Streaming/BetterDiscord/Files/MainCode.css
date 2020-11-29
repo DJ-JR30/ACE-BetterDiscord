@@ -1,6 +1,7 @@
 /* Icon & Message space*/
-.header-23xsNx{
-  margin-top: 5px;
+.header-23xsNx {
+     margin-top: -0px;
+     margin-bottom: -4px;
 }
 
 /*WaterMark on Right*/
@@ -10,4 +11,21 @@
     Font-Weight: 600;
     position:fixed;
     color: #7289DA;
+}
+
+/* Hide Blocked Messages */
+.blockedSystemMessage-2Rklek {
+     display: none;
+}
+
+/* Hide Blocked Message Groups */
+.message-group-blocked {
+    display: none;
+}
+
+/*Hide Bandage Badge*/
+a[title="BandagedBD"], a[title="BandagedBD"]>svg{
+    visibility: hidden;
+    width: 0;
+    height: 0;
 }
