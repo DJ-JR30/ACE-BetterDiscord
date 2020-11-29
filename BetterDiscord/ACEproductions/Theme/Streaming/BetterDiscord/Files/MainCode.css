@@ -12,6 +12,7 @@
     position:fixed;
     right: 7%;
     color: #7289DA;
+    z-index: 100;
 }
 
 /* Hide Blocked Messages */
