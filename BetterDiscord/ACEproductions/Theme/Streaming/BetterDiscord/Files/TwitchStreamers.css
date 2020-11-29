@@ -7,12 +7,12 @@
   margin-left: 2px;
 }
 
-/* LuckFire#4800 */
+/* Flare#9999 */
 [src="399416615742996480"] + .header-23xsNx > .headerText-3Uvj1Y > span:first-child::after,
 .avatar-3EQepX[data-user-id="399416615742996480"] + .headerInfo-30uryT > .nameTag-2IFDfL
 > .username-2b1r56::after,
 [style="399416615742996480"] + .usernameFont-23TX-h::after,
-[aria-label="LuckFire"] > div > .content-3QAtGj > .nameAndDecorators-5FJ2dg > .name-uJV0GL
+[aria-label="Flare"] > div > .content-3QAtGj > .nameAndDecorators-5FJ2dg > .name-uJV0GL
 > .overflow-WK9Ogt::after {
   content: " ";
   background: url(https://cdn.discordapp.com/emojis/635936642372337674.png?v=1) center/90% no-repeat;
