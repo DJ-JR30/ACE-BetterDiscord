@@ -1,3 +1,12 @@
+/* Main Code */
+.headerText-3Uvj1Y > span:first-child::after,
+.username-2b1r56::after,
+.usernameFont-23TX-h::after,
+.name-uJV0GL > .overflow-WK90gt::after{
+  padding: 0 10px 0 10px;
+  margin-left: 2px;
+}
+
 /* Flare#9999 */ 
 [src="180016569387057152"] + .header-23xsNx > .headerText-3Uvj1Y >
 span:first-child::after, .avatar-3EQepX[data-user-id="180016569387057152"] +
