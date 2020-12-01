@@ -1,30 +1,34 @@
-//META{
-"name":"Streaming!",
-"description":"For when your streaming and using Discord!",
-"author":"ACE",
-"version":"Auto Update"
-}
-*//
+//META{"name":"Streaming!","description":"For when your streaming and using Discord!","author":"ACE","version":"Auto Update"}*//
 
-/*Start of Settings Tab*/
-/*Billing*/
-.item-PXvHYJ:nth-child(6) {
-    display: none;
-}
-/*Discord Nitro*/
-.item-PXvHYJ:nth-child(8) {
-    display: none;
-}
-/*Gift Inventory*/
-.item-PXvHYJ:nth-child(9) {
-    display: none;
-}
-/*Server Boost*/
-.item-PXvHYJ:nth-child(10) {
-    display: none;
-}
-/*HypeSquad*/
-.item-PXvHYJ:nth-child(11) {
-    display: none;
-}
-/*End of Settings Tab*/
+/* Main Code */
+@import url(https://dj-jr30.github.io/ACE-BetterDiscord/BetterDiscord/ACEproductions/Theme/Streaming/BetterDiscord/Files/MainCode.css);
+
+/* Settings */
+@import url(https://dj-jr30.github.io/ACE-BetterDiscord/BetterDiscord/ACEproductions/Theme/Streaming/BetterDiscord/Files/Settings.css);
+
+/* Tooltip */
+@import url(https://dj-jr30.github.io/ACE-BetterDiscord/BetterDiscord/ACEproductions/Theme/Streaming/BetterDiscord/Files/Tooltip.css);
+
+/* Popup Bug */
+@import url(https://dj-jr30.github.io/ACE-BetterDiscord/BetterDiscord/ACEproductions/Theme/Streaming/BetterDiscord/Files/PopupBug.css);
+
+/* Twitch Streming Badges */
+@import url(https://dj-jr30.github.io/ACE-BetterDiscord/BetterDiscord/ACEproductions/Theme/Streaming/BetterDiscord/Files/TwitchStreamers.css);
+
+/* Splash */
+@import url(https://dj-jr30.github.io/ACE-BetterDiscord/BetterDiscord/ACEproductions/Theme/Streaming/BetterDiscord/Files/splash.css);
+
+/* Playing Game */
+@import url(https://dj-jr30.github.io/ACE-BetterDiscord/BetterDiscord/ACEproductions/Theme/Streaming/BetterDiscord/Files/PlayingGame.css);
+
+/* Hover Guild Menu */
+@import url(https://dj-jr30.github.io/ACE-BetterDiscord/BetterDiscord/ACEproductions/Theme/Streaming/BetterDiscord/Files/HoverGuild.css);
+
+/* Blur Discriminators */
+@import url(https://dj-jr30.github.io/ACE-BetterDiscord/BetterDiscord/ACEproductions/Theme/Streaming/BetterDiscord/Files/BlurUserDiscriminators.css);
+
+/* Hide Members List until hover */
+@import url(https://dj-jr30.github.io/ACE-BetterDiscord/BetterDiscord/ACEproductions/Theme/Streaming/BetterDiscord/Files/HideMembers.css);
+
+/* Message Text Font and Styles */
+@import url(https://dj-jr30.github.io/ACE-BetterDiscord/BetterDiscord/ACEproductions/Theme/Streaming/BetterDiscord/Files/MessageText.css);
