@@ -3,7 +3,7 @@
     display:none;
 }
 
-/*Mentions colour*/
+/*Mentions color*/
 .mention {
   color: #FFF;
   background: #424242;
@@ -15,4 +15,10 @@
 .mentioned-xhSam7:before {
     background-color: #C66262;
     padding: 1px;
+}
+
+/* @Pings and #Channels Underline */
+.wrapper-3WhCwL
+{
+    text-decoration: underline;
 }
