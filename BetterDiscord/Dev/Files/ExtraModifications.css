@@ -1,0 +1,47 @@
+/* Gift Nitro */
+[aria-label="Send a gift"] {
+    display:none;
+}
+
+/*Mentions color*/
+.mention {
+  color: #FFF;
+  background: #424242;
+}
+.mention:hover {
+  color: #000;
+  background: #000000;
+}
+.mentioned-xhSam7:before {
+    background-color: #C66262;
+    padding: 1px;
+}
+
+/* @Pings and #Channels Underline */
+.wrapper-3WhCwL
+{
+    text-decoration: underline;
+}
+
+/* Icon & Message space*/
+.header-23xsNx {
+     margin-top: -0px;
+     margin-bottom: -4px;
+}
+
+/* Hide Blocked Messages */
+.blockedSystemMessage-2Rklek {
+     display: none;
+}
+
+/* Hide Blocked Message Groups */
+.message-group-blocked {
+    display: none;
+}
+
+/*Hide Bandage Badge*/
+a[title="BandagedBD"], a[title="BandagedBD"]>svg{
+    visibility: hidden;
+    width: 0;
+    height: 0;
+}
