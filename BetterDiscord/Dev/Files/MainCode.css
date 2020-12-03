@@ -10,9 +10,6 @@
   --rs-offline-color: #636b75;  /* color for offline status */
   --rs-streaming-color: #643da7;  /* color for streaming status */
   --rs-invisible-color: #747f8d;  /* color for invisible status - Note this will only show for your own invisibility */
-  --background-blur: 0px;
-  --popup-blur: 0px;
-  --background-darkness: 0.75
 }
 
 /* Table of Contents 
