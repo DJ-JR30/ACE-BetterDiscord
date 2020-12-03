@@ -1,0 +1,16 @@
+/*Remove Guilds Section Until Hover*/
+.base-3dtUhz{
+  left: 3px;
+}
+.guilds-1SWlCJ{
+  opacity: 0;
+}
+.guilds-1SWlCJ:hover{
+  opacity: 1;
+}
+.guilds-1SWlCJ:hover + .base-3dtUhz{
+  left: 72px;
+}
+.scroller-2TZvBN{
+  background-color: var(--background-secondary);
+}
