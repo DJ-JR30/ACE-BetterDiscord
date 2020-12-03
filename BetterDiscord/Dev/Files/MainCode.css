@@ -1,3 +1,43 @@
-/*
-Main Code to run the Whole Theme
-*/
+/* Main Code to run the Whole Theme */
+
+.theme-dark {
+    --background-primary: black;
+    --background-tertiary: #BB2528;
+    --christmas-red: #EA4630;
+    --christmas-darkred: #BB2528;
+    --christmas-green: #146B3A;
+    --christmas-darkgreen: #165B33;
+    --christmas-gold: #F8B229;
+}
+
+/* |||| Main |||| */
+
+/*TitleBar*/
+.title-3qD0b- {
+  max-width:1610px;background: #18191d !important;
+}
+.content-yTz4x3::before {
+  display:none;
+}
+
+/*MembersList*/
+.members-1998pB {
+    width: 300px;
+    margin-top: 0px !important;
+    background-color: var(background-primary) !important;
+}
+.member-3-YXUe.container-2Pjhx-.clickable-1JJAn8 {
+    max-width: 300px !important;
+}
+.members-1998pB, .members-1998pB>div {
+    background-color: unset;
+}
+.scroller-2LSbBU {
+  color: var(--background-primary)
+}
+
+/*ChannelsList*/
+#channels {
+  background: #18191d;
+}
+.container-1taM1r {background: #18191d}
