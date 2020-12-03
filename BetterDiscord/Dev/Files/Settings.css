@@ -1,3 +1,10 @@
+/*Hide Bandage Badge*/
+a[title="BandagedBD"], a[title="BandagedBD"]>svg{
+    visibility: hidden;
+    width: 0;
+    height: 0;
+}
+
 /*Start of Settings Tab*/
 
 /*Authorized Apps*/
