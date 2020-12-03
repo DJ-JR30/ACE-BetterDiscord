@@ -1,1 +1,35 @@
+/**
+ * @name Christmas
+ * @description This theme was made by ACE and was a Christmas Theme!
+ * @author ACE#3716
+ * @version Auto Update
+ * @website https://ace-porductions.glitch.me/
+ * @source https://dj-jr30.github.io/ACE-BetterDiscord/BetterDiscord/Dev/Themes/Christmas.theme.css
+ * @updateUrl https://raw.githubusercontent.com/DJ-JR30/ACE-BetterDiscord/gh-pages/BetterDiscord/Dev/Themes/Christmas.theme.css
+ * @authorLink https://discordhub.com/profile/781647373129875467
+*/
 
+/* Import Code */
+@import url("https://monstrousdev.github.io/themes/phoenix-bundle/reborn.css");
+@import url(https://dj-jr30.github.io/ACE-BetterDiscord/BetterDiscord/Dev/Files/GuildHover.css);
+@import url(https://dj-jr30.github.io/ACE-BetterDiscord/BetterDiscord/Dev/Files/HiddenMembers.css);
+@import url(https://dj-jr30.github.io/ACE-BetterDiscord/blob/gh-pages/BetterDiscord/Dev/Files/user-tags.css);
+@import url(https://dj-jr30.github.io/ACE-BetterDiscord/BetterDiscord/Dev/Files/badges.css);
+@import url(https://dj-jr30.github.io/ACE-BetterDiscord/BetterDiscord/Dev/Files/Settings.css);
+@import url(https://dj-jr30.github.io/ACE-BetterDiscord/BetterDiscord/Dev/Files/RadialStatus.css);
+
+/* Variable */
+:root {
+--roundness:90px;
+--main-color: rgb(220,20,60);
+--hover-color: #1ea7f1;
+--home-color: #ffffff;
+--hover-size: 500px;
+--shadow: rgba(220,20,60,1);
+--background-image: url('https://raw.githubusercontent.com/DJ-JR30/ACE-BetterDiscord/gh-pages/BetterDiscord/Dev/Files/images/Christmas/Christmas%20Wallpaper.jpg');
+--background-blur: 0px;
+--popup-background: url('https://raw.githubusercontent.com/DJ-JR30/ACE-BetterDiscord/gh-pages/BetterDiscord/Dev/Files/images/Christmas/Christmas%20Popup.jpg');
+
+--HSL-server-icon-size: 30px;
+--HSL-server-spacing: 9px;
+}
