@@ -32,4 +32,9 @@ a[title="BandagedBD"], a[title="BandagedBD"]>svg{
     display: none;
 }
 
+/* Change Logs */
+.item-PXvHYJ:nth-child(25) {
+    display: none;
+}
+
 /*End of Settings Tab*/
