@@ -1,9 +1,9 @@
-/*WaterMark on TopLeft*/
+/*WaterMark on Right*/
 .wordmark-2iDDfm::before{
     content: 'Discord 2';
     font-size: 16px;
     Font-Weight: 600;
-    position:absolute;
-    right: 100px;
+    position:fixed;
+    right: 7.5%;
     color: #FFFFFF;
 }
