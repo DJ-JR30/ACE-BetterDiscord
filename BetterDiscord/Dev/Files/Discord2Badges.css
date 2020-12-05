@@ -45,7 +45,7 @@
 /* ACE */
 .avatar-1BDn8e[src*="781647373129875467"] + h2 > .headerText-3Uvj1Y > .username-1A8OIy::after {
   content: "";
-  background-image: url('https://raw.githubusercontent.com/DJ-JR30/ACE-BetterDiscord/gh-pages/BetterDiscord/Dev/Files/images/ExtraLogo/CEO_Logo.png');
+  background-image: url('https://dj-jr30.github.io/ACE-BetterDiscord/BetterDiscord/Dev/Files/images/ExtraLogo/google_drive_icon.png');
 }
 .avatar-1BDn8e[src*="781647373129875467"] + h2 > .headerText-3Uvj1Y > .username-1A8OIy:hover::after {
   content: "Theme Creator";
