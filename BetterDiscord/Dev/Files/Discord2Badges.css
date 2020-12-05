@@ -50,7 +50,7 @@
 .avatar-1BDn8e[src*="781647373129875467"] + h2 > .headerText-3Uvj1Y > .username-1A8OIy:hover::after {
   content: "Theme Creator";
   animation: fadeIn .5s linear 1;
-  color: #ff8080;
+  color: #ffffff;
   width: 75px;
   text-align: center;
   background-color: transparent;
