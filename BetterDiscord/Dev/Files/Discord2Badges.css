@@ -41,7 +41,7 @@
 }
 
 
-  /*==| MODS |==*/
+  /*==| Theme Creator |==*/
 /* ACE */
 .avatar-1BDn8e[src*="781647373129875467"] + h2 > .headerText-3Uvj1Y > .username-1A8OIy::after {
   content: "";
@@ -49,6 +49,23 @@
 }
 .avatar-1BDn8e[src*="781647373129875467"] + h2 > .headerText-3Uvj1Y > .username-1A8OIy:hover::after {
   content: "Theme Creator";
+  animation: fadeIn .5s linear 1;
+  color: #ffffff;
+  width: 75px;
+  text-align: center;
+  background-color: transparent;
+  background-image: url('');
+}
+
+
+  /*==| Theme Creator |==*/
+/* ACE */
+.avatar-1BDn8e[src*="574343149086834688"] + h2 > .headerText-3Uvj1Y > .username-1A8OIy::after {
+  content: "";
+  background-image: url('https://dj-jr30.github.io/ACE-BetterDiscord/BetterDiscord/Dev/Files/images/ExtraLogo/google_drive_icon.png');
+}
+.avatar-1BDn8e[src*="574343149086834688"] + h2 > .headerText-3Uvj1Y > .username-1A8OIy:hover::after {
+  content: "Theme Ideas";
   animation: fadeIn .5s linear 1;
   color: #ffffff;
   width: 75px;
