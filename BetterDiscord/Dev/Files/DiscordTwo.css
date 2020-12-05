@@ -21,3 +21,28 @@ a[title="BandagedBD"], a[title="BandagedBD"]>svg{
     width: 0;
     height: 0;
 }
+
+/* Beteter Embeds */
+.embedFull-2tM8-- {
+    border-radius: 1em;
+    border: 4px solid var(--background-tertiary);
+}
+.markup-2BOw-j code {
+    border-radius: 1em;
+}
+.ephemeral-1PsL1r:before,.mentioned-xhSam7:before,.replying-1x3H0T:before {
+    display: none;
+}
+.mentioned-xhSam7 {
+    border-radius: 1em;
+    box-shadow: inset 0px -1px 2px 0px #bd8f42;
+}
+.userPopout-3XzG_A {
+    border-radius: 1em;
+}
+.item-1tOPte{
+    border-radius: 1em;
+}
+.menu-3sdvDG {
+    border-radius: 1em;
+}
