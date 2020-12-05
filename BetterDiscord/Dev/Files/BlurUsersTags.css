@@ -1,10 +1,23 @@
 /* Blur Users Tags */
+/* Popup */
 .userPopout-3XzG_A .username-2b1r56 + span {
   filter:blur(5px);
   transition:all 0.01s;
 }
 
 .userPopout-3XzG_A .username-2b1r56 + span:hover {
+  filter:none;
+  color:white;
+  opacity:1;
+}
+
+/* Profile Popup */
+.discriminator-xUhQkU {
+  filter:blur(5px);
+  transition:all 0.01s;
+}
+
+.discriminator-xUhQkU {
   filter:none;
   color:white;
   opacity:1;
