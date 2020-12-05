@@ -48,7 +48,7 @@
   background-image: url('https://raw.githubusercontent.com/DJ-JR30/ACE-BetterDiscord/gh-pages/BetterDiscord/Dev/Files/images/ExtraLogo/CEO_Logo.png');
 }
 .avatar-1BDn8e[src*="781647373129875467"] + h2 > .headerText-3Uvj1Y > .username-1A8OIy:hover::after {
-  content: "ACE CEO";
+  content: "ACE Productions CEO";
   animation: fadeIn .5s linear 1;
   color: #ff8080;
   width: 75px;
