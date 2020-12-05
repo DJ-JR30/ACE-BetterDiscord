@@ -9,3 +9,8 @@
    top: 5px;
    padding-left: 0.1px;
 }
+
+/* Hide Member List icon */
+[aria-label="Member List"] {
+    display: none;
+}
