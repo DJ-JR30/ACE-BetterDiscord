@@ -1,3 +1,8 @@
+/* ServerBar no rounded */
+.platform-win .sidebar-2K8pFh {
+    border-radius: 0;
+}
+
 /* Gift Nitro */
 [aria-label="Send a gift"] {
     display:none;
