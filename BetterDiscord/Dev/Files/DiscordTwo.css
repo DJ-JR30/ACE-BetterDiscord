@@ -1,0 +1,11 @@
+/* Adds the 2 warkermark to top left */
+.wordmarkWindows-1v0lYD::after {
+   content: "2";
+   color: var(--text-muted);
+   font-size: 14px;
+   font-weight: 700;
+   width: 200px;
+   position: absolute;
+   top: 5px;
+   padding-left: 0.1px;
+}
