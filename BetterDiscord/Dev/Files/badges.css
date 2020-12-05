@@ -57,6 +57,23 @@
   background-image: url('');
 }
 
+  /*==[OfflineTV ]==*/
+
+/* Pokimane */
+.avatar-1BDn8e[src*="Don't have Discord User ID"] + h2 > .headerText-3Uvj1Y > .username-1A8OIy::after {
+  content: "";
+  background-image: url('https://raw.githubusercontent.com/DJ-JR30/ACE-BetterDiscord/gh-pages/BetterDiscord/Dev/Files/images/OfflineTV/Pokimane/pokimane_badges.png');
+}
+.avatar-1BDn8e[src*="Don't have Discord User ID"] + h2 > .headerText-3Uvj1Y > .username-1A8OIy:hover::after {
+  content: "Pokimane";
+  animation: fadeIn .5s linear 1;
+  color: #ff8080;
+  width: 75px;
+  text-align: center;
+  background-color: transparent;
+  background-image: url('');
+}
+
   /*==|CUSTOM BADGES|==*/
 /* Spectra */
 .avatar-1BDn8e[src*="286208664623120384"] + h2 > .headerText-3Uvj1Y > .username-1A8OIy::after {
