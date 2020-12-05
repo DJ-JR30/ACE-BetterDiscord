@@ -1,3 +1,15 @@
+/* Blur Users Tags */
+.userPopout-3XzG_A .username-2b1r56 + span {
+  filter:blur(5px);
+  transition:all 0.01s;
+}
+
+.userPopout-3XzG_A .username-2b1r56 + span:hover {
+  filter:none;
+  color:white;
+  opacity:1;
+}
+
 /* Gift Nitro */
 [aria-label="Send a gift"] {
     display:none;
