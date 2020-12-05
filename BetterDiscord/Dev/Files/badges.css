@@ -42,9 +42,11 @@
 
 
   /*==| MODS |==*/
-/*ACE*/
-.avatar-1BDn8e[src*="781647373129875467"] + h2 > .headerText-3Uvj1Y > .username-1A8OIy::after {content: "";
-  background-image: url('https://raw.githubusercontent.com/DJ-JR30/ACE-BetterDiscord/gh-pages/BetterDiscord/Dev/Files/images/ExtraLogo/CEO_Logo.png');}
+/* ACE */
+.avatar-1BDn8e[src*="781647373129875467"] + h2 > .headerText-3Uvj1Y > .username-1A8OIy::after {
+  content: "";
+  background-image: url('https://raw.githubusercontent.com/DJ-JR30/ACE-BetterDiscord/gh-pages/BetterDiscord/Dev/Files/images/ExtraLogo/CEO_Logo.png');
+}
 .avatar-1BDn8e[src*="781647373129875467"] + h2 > .headerText-3Uvj1Y > .username-1A8OIy:hover::after {
   content: "ACE CEO";
   animation: fadeIn .5s linear 1;
@@ -52,7 +54,7 @@
   width: 75px;
   text-align: center;
   background-color: transparent;
-  background-image: url('https://i.imgur.com/bzmEwnm.png') !important;
+  background-image: url('https://i.imgur.com/bzmEwnm.png');
 }
 
   /*==|CUSTOM BADGES|==*/
