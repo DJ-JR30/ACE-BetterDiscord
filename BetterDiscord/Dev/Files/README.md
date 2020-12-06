@@ -1,4 +1,4 @@
 # Files for all codes
 
-Message Logger
-Spotify Controls
+1. Message Logger
+2. Spotify Controls
