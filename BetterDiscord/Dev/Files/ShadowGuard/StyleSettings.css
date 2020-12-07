@@ -1,7 +1,7 @@
 :root {
---background-image: url('https://github.com/DJ-JR30/ACE-BetterDiscord/blob/gh-pages/BetterDiscord/Dev/Files/ShadowGuard/images/Emperors-Shadow-Guard.jpg?raw=true');
+--background-image: url('https://github.com/DJ-JR30/ACE-BetterDiscord/blob/gh-pages/BetterDiscord/Dev/Files/ShadowGuard/images/Emperors-Shadow-Guard.jpg');
 --background-image-blur: 0px;
---popout-modal-image: url('https://cdn.glitch.com/ed0fa251-98c0-4bc3-ab55-24f982abde8f%2FPopup_Wallpaper.jpg?v=1607319851810');
+--popout-modal-image: url('https://github.com/DJ-JR30/ACE-BetterDiscord/blob/gh-pages/BetterDiscord/Dev/Files/ShadowGuard/images/ShadowGuard-Popup.jpg');
 --popout-modal-blur: 0px;
 --serverlist-brightness: 0.8;
 --left-brightness: 0.8;
