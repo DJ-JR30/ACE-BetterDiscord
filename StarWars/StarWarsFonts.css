@@ -1,1 +1,14 @@
+@font-face {
+  font-family: myFirstFont;
+  src: url();
+}
 
+@font-face {
+  font-family: mySecondFont;
+  src: url();
+}
+
+@font-face {
+  font-family: myThridFont;
+  src: url();
+}
