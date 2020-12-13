@@ -14,13 +14,13 @@
 }
 
 .AurebeshDroid {
-  font-family: AurebeshDroid;
+  font-family: AurebeshDroid !important;
 }
 
 .OuterRim {
-  font-family: OuterRim;
+  font-family: OuterRim !important;
 }
 
 .Mandalor {
-  font-family: Mandalor;
+  font-family: Mandalor !important;
 }
