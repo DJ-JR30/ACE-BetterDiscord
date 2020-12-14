@@ -1,16 +1,16 @@
 @font-face {
   font-family: aurebeshDroid-Font;
-  src: url(https://dj-jr30.github.io/ACE-BetterDiscord/StarWars/Fonts/AurebeshDroidRegular-Mnwe.ttf);
+  src: url("https://dj-jr30.github.io/ACE-BetterDiscord/StarWars/Fonts/AurebeshDroidRegular-Mnwe.ttf");
 }
 
 @font-face {
   font-family: outerRim-Font;
-  src: url(https://dj-jr30.github.io/ACE-BetterDiscord/StarWars/Fonts/OuterRimAf-d9Kq7.otf);
+  src: url("https://dj-jr30.github.io/ACE-BetterDiscord/StarWars/Fonts/OuterRimAf-d9Kq7.otf");
 }
 
 @font-face {
   font-family: mandalor-Font;
-  src: url(https://dj-jr30.github.io/ACE-BetterDiscord/StarWars/Fonts/mandalor.ttf);
+  src: url("https://dj-jr30.github.io/ACE-BetterDiscord/StarWars/Fonts/mandalor.ttf");
 }
 
 .AurebeshDroid {
