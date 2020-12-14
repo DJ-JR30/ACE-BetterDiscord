@@ -1,8 +1,17 @@
 @font-face {
   font-family: aurebeshDroid-Font;
-  src: url("https://cdn.glitch.com/174919f8-60ba-42a0-a443-100942ea32fd%2FAurebeshDroidRegular-Mnwe.ttf");
+  src: url("https://cdn.glitch.com/6e4cdc59-6fa6-4125-8cbb-104aebc1e3cd%2FAurebeshDroidRegular-Mnwe.ttf?v=1607971007389");
 }
 
-.AurebeshDroid {
+@font-face {
+  font-family: sithFont;
+  src: url("https://cdn.glitch.com/6e4cdc59-6fa6-4125-8cbb-104aebc1e3cd%2Fsthproph.ttf?v=1607971013133");
+}
+
+.AurebeshDroid-Lang {
   font-family: aurebeshDroid-Font !important;
+}
+
+.Sith-Lang {
+  font-family: sithFont !important;
 }
