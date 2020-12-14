@@ -1,26 +1,8 @@
 @font-face {
   font-family: aurebeshDroid-Font;
-  src: url("https://dj-jr30.github.io/ACE-BetterDiscord/StarWars/Fonts/AurebeshDroidRegular-Mnwe.ttf");
-}
-
-@font-face {
-  font-family: outerRim-Font;
-  src: url("https://dj-jr30.github.io/ACE-BetterDiscord/StarWars/Fonts/OuterRimAf-d9Kq7.otf");
-}
-
-@font-face {
-  font-family: mandalor-Font;
-  src: url("https://dj-jr30.github.io/ACE-BetterDiscord/StarWars/Fonts/mandalor.ttf");
+  src: url("https://cdn.glitch.com/174919f8-60ba-42a0-a443-100942ea32fd%2FAurebeshDroidRegular-Mnwe.ttf");
 }
 
 .AurebeshDroid {
   font-family: aurebeshDroid-Font !important;
-}
-
-.OuterRim {
-  font-family: outerRim-Font !important;
-}
-
-.Mandalor {
-  font-family: mandalor-Font !important;
 }
