@@ -29,23 +29,23 @@
 
 
 .AurebeshDroid {
-  font-family: aureFont;
+  font-family: aureFont !important;
 }
 .ChristtmasSurprise {
-  font-family: ChristSurp;
+  font-family: ChristSurp !important;
 }
 .OuterRim {
-  font-family: outerFont;
+  font-family: outerFont !important;
 }
 .ChristmasPW {
-  font-family: PW;
+  font-family: PW !important;
 }
 .Romanesco {
-  font-family: romanFont;
+  font-family: romanFont !important;
 }
 .Mandalor {
-  font-family: mandalorFont;
+  font-family: mandalorFont !important;
 }
 .Sith {
-  font-family: sth;
+  font-family: sth !important;
 }
