@@ -1,0 +1,51 @@
+@font-face {
+  font-family: aureFont;
+  src: url(AurebeshDroidRegular-Mnwe.ttf);
+}
+@font-face {
+  font-family: ChristSurp;
+  src: url("Christmas Surprise Monogram.ttf");
+}
+@font-face {
+  font-family: outerFont;
+  src: url(OuterRimAf-d9Kq7.otf);
+}
+@font-face {
+  font-family: PW;
+  src: url(PWHappyChristmas.ttf);
+}
+@font-face {
+  font-family: romanFont;
+  src: url(Romanesco-Regular.ttf);
+}
+@font-face {
+  font-family: mandalorFont;
+  src: url(mandalor.ttf);
+}
+@font-face {
+  font-family: sth;
+  src: url(sthproph.ttf);
+}
+
+
+.AurebeshDroid {
+  font-family: aureFont;
+}
+.ChristtmasSurprise {
+  font-family: ChristSurp;
+}
+.OuterRim {
+  font-family: outerFont;
+}
+.ChristmasPW {
+  font-family: PW;
+}
+.Romanesco {
+  font-family: romanFont;
+}
+.Mandalor {
+  font-family: mandalorFont;
+}
+.Sith {
+  font-family: sth;
+}
