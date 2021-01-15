@@ -1,0 +1,9 @@
+{
+ "FName": "First Name",
+ "LName": "Last Name",
+ "KnownAS": "",
+ "DOB-Month": "Month",
+ "DOB-Day": "Day",
+ "DOB-Year": "Year",
+ "Friends": ["Friend 1", "Friend 2"]
+}
