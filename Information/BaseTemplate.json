@@ -1,7 +1,7 @@
 {
  "FName": "First Name",
  "LName": "Last Name",
- "KnownAS": "",
+ "KnownAS": "ChannelName",
  "DOB-Month": "Month",
  "DOB-Day": "Day",
  "DOB-Year": "Year",
