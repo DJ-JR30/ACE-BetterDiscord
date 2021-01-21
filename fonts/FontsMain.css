@@ -26,8 +26,22 @@
   font-family: sth;
   src: url(sthproph.ttf);
 }
+@font-face {
+  font-family: ImReg;
+  src: url(Imbue-Regular.ttf);
+}
+@font-face {
+  font-family: potReg;
+  src: url(PottaOne-Regular.ttf);
+}
 
 
+.Imbue {
+  font-family: ImReg !important;
+}
+.PottaOne {
+  font-family: potReg !important;
+}
 .AurebeshDroid {
   font-family: aureFont !important;
 }
